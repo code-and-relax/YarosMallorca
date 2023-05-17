@@ -5,7 +5,12 @@
 <h3>Hey there, I’m Yaros <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
 <div>
-  I am passionate about computer science, and I enjoy learning new things!<br>I'm making projects with friends (<a href="https://codeclickers.com">Code Clickers</a>) and by myself. You can find some of my projects here on GitHub!
+  I was born in Ukraine in 2006, and I've been living in Spain since 2012. In 2017, I decided to pursue my passion and started my journey to become a developer.
+  I am passionate about computer science, and I enjoy learning new things!
+  <br />Currently making projects with <a href="https://github.com/Luck24">@Luck24</a> (<a href="https://codeclickers.com">Code Clickers</a>) and by myself. You can find some of my projects here on GitHub!
+  <br />
+  <br />
+  Flutter, Firebase, and Dart is my favourite Tech Stack 💛💙
 </div>
 
 <hr>
