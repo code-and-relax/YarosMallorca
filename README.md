@@ -71,9 +71,9 @@
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarostheLaunchpadder&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YarosMallorca&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </div>
 
 <div>
- <img src="http://github-readme-streak-stats.herokuapp.com?user=YarostheLaunchpadder&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=YarosMallorca&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
