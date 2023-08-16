@@ -58,8 +58,8 @@
 
 <div>
   <h4>Workspace Specs</h3>
-  <img src="https://img.shields.io/badge/Intel-Core_i5_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=black">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1050Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=black">
 </div>
 
 <hr>
