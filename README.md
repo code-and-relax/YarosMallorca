@@ -7,10 +7,12 @@
 <div>
   I was born in Ukraine in 2006, and I've been living in Spain since 2012. In 2017, I decided to pursue my passion and started my journey to become a developer.
   I am passionate about computer science, and I enjoy learning new things!
-  <br />Currently making projects with <a href="https://github.com/Luck24">@Luck24</a> (<a href="https://codeclickers.com">Code Clickers</a>) and by myself. You can find some of my projects here on GitHub!
+  <br />Currently making projects with <a href="https://github.com/Luck24">@Luck24</a>, <a href="https://github.com/Nw05">@Niklas</a> (<a href="https://codeclickers.com">Code Clickers</a>) and by myself. You can find some of my projects here on GitHub!
+  <br />
+  <br />Coding all day with <a href="https://github.com/code-and-relax">@Yassine</a> in school, because most classes are boring as hell.
   <br />
   <br />
-  Flutter, Firebase, and Dart is my favourite Tech Stack 💛💙
+  Flutter, Firebase, and Dart are my favorite Tech Stack 💛💙
 </div>
 
 <hr>
